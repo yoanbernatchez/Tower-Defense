@@ -5,7 +5,7 @@ Contact: yoan_bernatchez@hotmail.com
 Language: C++
 
 This project is a work in progress.
-Not all the project's files are included here.
+Not all of the project's files are included here.
 I will send the Code::Blocks project file on request.
 
 Here's what the project looks like for now:
