@@ -3,6 +3,7 @@
 Author: Yoan Bernatchez  \
 Contact: yoan_bernatchez@hotmail.com  
 Language: C++
+
 Game Engine: None, SDL graphics library
 
 This project is a work in progress.
